@@ -1,0 +1,10 @@
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\bin\Debug\2p_tictactoe.exe.config
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\bin\Debug\2p_tictactoe.exe
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\bin\Debug\2p_tictactoe.pdb
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\2p_tictactoe.csprojAssemblyReference.cache
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\_2p_tictactoe.Form1.resources
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\_2p_tictactoe.Properties.Resources.resources
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\2p_tictactoe.csproj.GenerateResource.cache
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\2p_tictactoe.csproj.CoreCompileInputs.cache
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\2p_tictactoe.exe
+c:\users\ahmet\source\repos\2p_tictactoe\2p_tictactoe\obj\Debug\2p_tictactoe.pdb
