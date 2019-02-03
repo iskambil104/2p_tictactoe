@@ -148,6 +148,11 @@ namespace _2p_tictactoe
         private void button13_Click(object sender, EventArgs e)
         {
             won = 0;
+            button14.Visible = true;
+            label7.Visible=true;
+            label8.Visible = true;
+            label5.Text = textBox2.Text;
+            label6.Text = textBox3.Text;
             if (radioButton2.Checked == true)
             {
                 label1.Text = textBox2.Text + "'s Turn";
